@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="fr">
+	<head>
+		<title>Julie Balva</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="Portfoliocss.css"/>
+	</head>
+	<body>
+		<h1>Mon portfolio</h1>
+		<nav>
+  			<ul>
+  				<li><a>Menu</a></li>
+    			<li class="menu-deroulant">
+      		<a title="Projets arts plastiques"
+      			href="./Pages/MProjetsAP.html">Projets arts plastiques</a>
+      			<ul class="sous-menu">
+        				<li><a title="Projets Première"
+									href="./Pages/SMPremière.html">Première
+					</a></li>
+       				<li><a title="Projets Terminale"
+									href="./Pages/SMTerminale.html">Terminale
+					</a></li>
+      			</ul>
+    			</li>
+    			<li class="menu-deroulant">
+      		<a title="Audiovisuel"
+      			href="./Pages/MAudiovisuel.html">Audiovisuel</a>
+      			<ul class="sous-menu">
+       				 <li><a title="Animation"
+									href="./Pages/SMAnimation.html">Animation</a></li>
+        				<li><a title="Films"
+									href="./Pages/SMFilms.html">Films</a></li>
+      			</ul>
+      		</li>
+      		<li class="menu-deroulant">
+      		<a title="Dessins"
+      			href="./Pages/SDessins.html">Dessins</a>
+      			<ul class="sous-menu">
+				<li><a title="Dessins numériques"
+							href="./Pages/SMNumérique.html">Numérique
+					</a>
+				</li>
+        		<li><a title="Dessins Traditionnels"
+						href="./Pages/SMDessinsTraditionnels.html">Dessins traditionnels
+					</a>
+				</li>
+        		<li><a title="Peinture"
+        				href="./Pages/SMPeinture.html">Peinture</a></li>
+      			</ul>
+      		</li>
+      		<li class="menu-deroulant">
+      		<a title="3D"
+      			href="./Pages/M3D.html">3D</a>
+      			<ul class="sous-menu">
+       				 <li><a title="Papier Maché"
+									href="./Pages/SMPapierMaché.html">Papier maché</a></li>
+        				<li><a title="Carton"
+									href="./Pages/SMCarton.html">Carton</a></li>
+        				<li><a title="Bijoux"
+									href="./Pages/SMBijoux.html">Bijoux</a></li>
+						<li><a title="Autres"
+									href="./Pages/SMAutres.html">Autres</a></li>
+      			</ul>
+      		</li>	
+      	</ul>
+		</nav>
+		<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+		<p class="fin">
+    			<a href="http://jigsaw.w3.org/css-validator/check/referer">
+        		<img style="border:0;width:88px;height:31px"
+            	src="http://jigsaw.w3.org/css-validator/images/vcss"
+            	alt="CSS Valide !" />
+          	 </a>
+            <a href="./Images.zip/index.png">
+        		<img style="border:0;width:88px;height:31px"
+            	src="./Images/index.png"
+            	alt="HTML5 Valide !" /><br>
+   	 		</a>
+   	 			
+			</p>
+	</body>
+</html>
