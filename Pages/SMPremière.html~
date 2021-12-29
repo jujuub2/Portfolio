@@ -1,0 +1,247 @@
+<!doctype html>
+<html lang="fr">
+	<head>
+		<title>Julie Balva</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="pages.css"/>
+	</head>
+	<body>
+		<h1>Projets arts plastiques Première</h1>
+		<nav>
+  			<ul>
+  				<li><a title="Menu"
+									href="../Portfolio.html">Menu
+					</a></li>
+    			<li class="menu-deroulant">
+      		<a title="Projets arts plastiques"
+      			href="./MProjetsAP.html">Projets arts plastiques</a>
+      			<ul class="sous-menu">
+        				<li><a>Première</a></li>
+       				<li><a title="Projets Terminale"
+									href="./SMTerminale.html">Terminale
+					</a></li>
+      			</ul>
+    			</li>
+    			<li class="menu-deroulant">
+      		<a title="Audiovisuel"
+      			href="./MAudiovisuel.html">Audiovisuel</a>
+      			<ul class="sous-menu">
+       				 <li><a title="Animation"
+									href="./SMAnimation.html">Animation</a></li>
+        				<li><a title="Films"
+									href="./SMFilms.html">Films</a></li>
+      			</ul>
+      		</li>
+      		<li class="menu-deroulant">
+      		<a title="Dessins"
+      			href="./SDessins.html">Dessins</a>
+      			<ul class="sous-menu">
+       				 <li><a title="Dessins numériques"
+									href="./SMNumérique.html">Numérique
+					</a></li>
+        				<li><a title="Dessins traditionnels"
+									href="./SMDessinsTraditionnels.html">Dessins traditionnels</a></li>
+        				<li><a title="Peinture"
+        				href="./SMPeinture.html">Peinture</a></li>
+      			</ul>
+      		</li>
+      		<li class="menu-deroulant">
+      		<a title="3D"
+      			href="./M3D.html">3D</a>
+      			<ul class="sous-menu">
+       				 <li><a title="Papier Maché"
+									href="./SMPapierMaché.html">Papier maché</a></li>
+        				<li><a title="Carton"
+									href="./SMCarton.html">Carton</a></li>
+        				<li><a title="Bijoux"
+									href="./SMBijoux.html">Bijoux</a></li>
+									<li><a title="Autres"
+									href="./SMAutres.html">Autres</a></li>
+      			</ul>
+      		</li>	
+      	</ul>
+		</nav>
+		<br><br>
+		<p><B>Sommaire</B></p>
+			<ul>
+				<li class="menu"><a href="#Projet1" > Projet 1: Dessin/Dessein</a></li>
+				<li class="menu"><a href="#Projet2">Projet 2: Je crée mon manuscrit</a></li>
+				<li class="menu"><a href="#Projet3">Projet 3: Quand musique et art fusionnent</a></li>
+				<li class="menu"><a href="#Projet4">Projet 4: L'eau dans l'art</a></li>
+				<li class="menu"><a href="#Projet5">Projet 5: Le jeu dans l'art</a></li>
+				<li class="menu"><a href="#Projet6">Projet 6: Le reflet, un jeu de miroir</a></li>
+				<li class="menu"><a href="#Projet7">Projet 7: Le rêve</a></li>
+		</ul>
+		<br><br>
+		<h2 id="Projet1">Projet 1: Dessin/Dessein</h2>
+		<br>
+			<figure>
+				<a href="../Images/Projet1Fiche.png" ><img src="../Images/Projet1Fiche.png" 
+					alt="image1" class="image" width="640"/></a>
+				<a href="../Images/DessinDessein.png" ><img src="../Images/DessinDessein.png" 
+						alt="image1" class="image" width="550"/></a>
+			</figure><br><br>
+		<h2 id="Projet2">Projet 2: Je crée mon manuscrit</h2><br>		
+				<a href="../Images/Projet2Fiche.png" ><img src="../Images/Projet2Fiche.png" 
+					alt="image1" class="image" width="640"/></a>
+				<a href="../Images/TexteMeduse.png" ><img src="../Images/TexteMeduse.png" 
+					alt="image1" class="image" width="550"/></a>
+			<figure>
+				<a href="../Images/IMG_20210701_115258788.jpg" ><img src="../Images/IMG_20210701_115258788.jpg" 
+					alt="image1" class="image" width="640"/></a>
+				<a href="../Images/IMG_20210701_115308236.jpg" ><img src="../Images/IMG_20210701_115308236.jpg" 
+					alt="image1" class="image" width="550"/></a>
+			</figure>
+			<figure>
+				<a href="../Images/IMG_20210701_120124762.jpg" ><img src="../Images/IMG_20210701_120124762.jpg" 
+					alt="image1" class="image" width="390"/></a>
+				<a href="../Images/IMG_20210701_120220220.jpg" ><img src="../Images/IMG_20210701_120220220.jpg" 
+					alt="image1" class="image" width="390"/></a>
+				<a href="../Images/IMG_20210701_120312259.jpg" ><img src="../Images/IMG_20210701_120312259.jpg" 
+					alt="image1" class="image" width="390"/></a>
+			</figure>
+			<figure>
+				<a href="../Images/IMG_20210701_120246538.png" ><img src="../Images/IMG_20210701_120246538.png" 
+					alt="image1" class="image" width="640"/></a>
+				<a href="../Images/IMG_20210701_120340820.png" ><img src="../Images/IMG_20210701_120340820.png" 
+					alt="image1" class="image" width="550"/></a>
+			</figure>		
+				<p><B>Justifications :</B><br><br>
+					Choix du texte : volonté de faire connaître Méduse et d’aider à la « réhabilitation » du personnage.
+					Livre sous la forme d’une boite : donner un aspect plus intime car évocation des plus gros secrets de Méduse.<br>
+					Dégradé du rouge au noir : <br>
+					Rouge = couleur de l’amour, la passion (de Poséidon, pas réciproque), et l’interdiction (acte « commis par Méduse » selon l’histoire)<br>
+					Noir = couleur du deuil (deuil de sa beauté, de sa vie d’avant)<br>
+					Schématisation de sa vie.<br><br>
+					Petits bouts de miroir : <br>
+					Du côté rouge = symbole de sa beauté passé<br>
+					Du côté noir = plus petits, symbole de sa vie brisée<br>
+					Plus de noir sur la boite, car étant devenue immortelle, elle passera le reste de sa vie dans le « noir ».<br><br>
+					Tête coupée : concrétisation de la « victoire » de Persée et de la mort de Méduse.<br>
+					En la voyant, on se rend vraiment compte qu’une innocente a été tuée sans raison.<br>
+					Elle est devenue un trophée : dernière humiliation post-mortem, nie l’humanité de Méduse, c’est une bête, un monstre.
+				</p>
+		<h2 id="Projet3">Projet 3: Quand musique et art fusionnent</h2><br>			
+			<figure>
+				<a href="../Images/Projet3Fiche.png" ><img src="../Images/Projet3Fiche.png" 
+					alt="image1" class="image" width="640"/></a>
+				<a href="../Images/Projet3Fiche2.png" ><img src="../Images/Projet3Fiche2.png" 
+					alt="image1" class="image" width="300"/></a>
+			</figure>
+			<figure>
+				<a href="../Images/IMG_20210701_121227063.jpg" ><img src="../Images/IMG_20210701_121227063.jpg" 
+					alt="image1" class="image" width="640"/></a>
+			</figure>
+			<p><B>Justifications :</B><br><br>
+				Sérénade D.657 de Schubert, ressentis :<br>
+				musique mélancolique, rêve, oubli de la réalité, bulle du bonheur, rapport à la nature, souvenirs.<br><br>
+				Metallica, Nothing Else Matters, ressentis : <br>
+				ambiance froide, colère, fatalité.<br><br>
+				Vitraux cathédrale : Donne un côté froid à la scène + côté fataliste de la 2nde musique = sorte de prophétie, comme celles de la Bible représentées sur les vitraux des églises.<br><br>
+				Scènes représentées sur les vitraux des colonnes 1 et 3 : <br>
+				représentation de la première musique, nostalgie de ce qu’était la nature avant, souvenirs<br><br>
+				Scènes représentées sur les vitraux des colonnes 2 et 4 : <br>
+				représentation de la seconde musique, fatalité = ce à quoi la Terre est destinée à ressembler, scènes tristes, comme la musique.<br><br>
+				Couleurs :<br>
+				Colonnes 1 et 3 : couleurs froides et naturelles, représentatives du paradis.<br>
+				Colonnes 2 et 4 : couleurs chaudes, peu naturelles, représentatives de l’enfer.<br><br>
+
+				Rythmes :<br>Le rythme de la première musique est assez constant, donc les images qui la représente sont toutes douces, sans différences majeures les unes par rapport aux autres<br>
+				Le rythme de la seconde musique change souvent, et certaines parties du rythme sont assez violentes. Pour suivre le rythme, et surtout ces phases plus violentes, un vitrail sur deux et plus « dur » à voir que l’autre.<br>
+				Vitraux avec animaux considérés comme moins violents car certains considèrent le sort des animaux comme moins importants.<br><br>
+				Vitraux en haut des colonnes : <br>
+				Opposition soldats/ enfants, armes/ fleurs<br>
+				référence à une œuvre de Banksy<br>
+				Soldats qui entourent les enfants pour montrer que les guerres ont une incidence sur tous, même les civils<br>
+				Au dessus à gauche, symboles de la destruction<br>
+				Au dessus à droite, symboles de la nature<br>
+				Tout en haut au centre, masque à gaz : symbole de la destruction, entourés de logos représentant des catastrophes, naturelles ou non.
+			</p>
+			<h2 id="Projet4">Projet 4: L'eau dans l'art</h2>
+				<figure>
+					<a href="../Images/Projet5Fiche.png" ><img src="../Images/Projet5Fiche.png" 
+						alt="image1" class="image" width="720"/></a></figure>	<br>			
+					<video src="../Vidéos/BALVA_AuFilDeL'Eau.mp4" 
+						width="655" 
+						controls>
+					</video>
+					<p><B>Aspects de l'eau représentés :</B><br>
+						- L'eau utilisée par l'Homme<br>
+						- Symbolique, avec Neptune/Poséidon<br>
+						- Bruits<br>
+						- Liquide<br>
+						- Solide (glace)<br>
+						- A l'état naturel<br>
+						- Musique<br><br>
+						<B>Techniques utilisées :</B>
+						- Animation 2D<br>
+						- Montage photo<br>
+						- Montage vidéo<br>
+						- Vidéo<br>
+						- Peinture acrylique<br>
+						- Aquarelle<br>
+						- Encre de chine<br>
+						- Montage audio</p><br><br><br>
+				<h2 id="Projet5">Projet 5: Le jeu dans l'art</h2><br>		
+					<figure>
+						<a href="../Images/Projet6Fiche.png" ><img src="../Images/Projet6Fiche.png" 
+							alt="image1" class="image" width="550"/></a>
+						<a href="../Images/Projet7Fiche.png" ><img src="../Images/Projet7Fiche.png" 
+							alt="image1" class="image" width="640"/></a>
+					</figure><br>	<br>
+				<p>Les cartes :</p>	
+					<figure>
+						<a href="../Images/carte1.jpg" ><img src="../Images/carte1.jpg" 
+							alt="image1" class="image" width="320"/></a>
+						<a href="../Images/carte2.jpg" ><img src="../Images/carte2.jpg" 
+							alt="image1" class="image" width="320"/></a>
+					</figure><br><br>
+				<p>La boite et le plateau :</p>
+					<figure>
+						<a href="../Images/boite.jpg" ><img src="../Images/boite.jpg" 
+							alt="image1" class="image" width="550"/></a>
+						<a href="../Images/plateau.jpg" ><img src="../Images/plateau.jpg" 
+							alt="image1" class="image" width="550"/></a></figure><br><br>
+				<h2 id="Projet6">Projet 6: Le reflet, un jeu de miroir</h2><br>		
+					<figure>
+						<a href="../Images/Projet8Fiche.png" ><img src="../Images/Projet8Fiche.png" 
+							alt="image1" class="image" width="640"/></a>
+					</figure>
+					<figure>
+						<a href="../Images/IMG_20210701_120725845.jpg" ><img src="../Images/IMG_20210701_120725845.jpg" 
+							alt="image1" class="image" width="720"/></a>
+						<a href="../Images/IMG_20210701_120807813.jpg" ><img src="../Images/IMG_20210701_120807813.jpg" 
+							alt="image1" class="image" width="400"/></a>
+					</figure>
+					<figure>
+						<a href="../Images/IMG_20210701_120824579.jpg" ><img src="../Images/IMG_20210701_120824579.jpg" 
+							alt="image1" class="image" width="640"/></a>
+						<a href="../Images/IMG_20210701_120849856.png" ><img src="../Images/IMG_20210701_120849856.png" 
+							alt="image1" class="image" width="550"/></a>
+					</figure><br><br>
+				<h2 id="Projet7">Projet 7: Le rêve</h2><br>		
+					<figure>
+						<a href="../Images/Projet8Fiche.png" ><img src="../Images/Projet8Fiche.png" 
+							alt="image1" class="image" width="640"/></a>
+						<a href="../Images/Projet8Fiche2.png" ><img src="../Images/Projet8Fiche2.png" 
+							alt="image1" class="image" width="270"/></a>
+					</figure>				
+					<a href="../Vidéos/BALVA_FilmReve.mp4" ><video src="../Vidéos/BALVA_FilmReve.mp4" 
+						width="655" 
+						controls></video></a>
+
+<p class="fin">
+    			<a href="http://jigsaw.w3.org/css-validator/check/referer">
+        		<img style="border:0;width:88px;height:31px"
+            	src="http://jigsaw.w3.org/css-validator/images/vcss"
+            	alt="CSS Valide !" />
+          	 </a>
+            <a href="./Images/index.png">
+        		<img style="border:0;width:88px;height:31px"
+            	src="../Images/index.png"
+            	alt="HTML5 Valide !" /><br>
+   	 		</a>
+   	 			
+			</p>
+	</body>
+</html>

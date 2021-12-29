@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="fr">
+	<head>
+		<title>Julie Balva</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="pages.css"/>
+	</head>
+	<body>
+		<h1>Carton</h1>
+		<nav>
+  			<ul>
+  				<li><a title="Menu"
+									href="../Portfolio.html">Menu
+					</a></li>
+    			<li class="menu-deroulant">
+      		<a title="Projets arts plastiques"
+      			href="./MProjetsAP.html">Projets arts plastiques</a>
+      			<ul class="sous-menu">
+        				<li><a title="Projets Première"
+									href="./SMPremière.html">Première
+					</a></li>
+       				<li><a title="Projets Terminale"
+									href="./SMTerminale.html">Terminale
+					</a></li>
+      			</ul>
+    			</li>
+    			<li class="menu-deroulant">
+      		<a title="Audiovisuel"
+      			href="./MAudiovisuel.html">Audiovisuel</a>
+      			<ul class="sous-menu">
+       				 <li><a title="Animation"
+									href="./SMAnimation.html">Animation</a></li>
+        				<li><a title="Films"
+									href="./SMFilms.html">Films</a></li>
+      			</ul>
+      		</li>
+      		<li class="menu-deroulant">
+      		<a title="Dessins"
+      			href="./SDessins.html">Dessins</a>
+      			<ul class="sous-menu">
+       				 <li><a title="Dessins numériques"
+									href="./SMNumérique.html">Numérique
+					</a></li>
+        				<li><a title="Dessins traditionnels"
+									href="./SMDessinsTraditionnels.html">Dessins traditionnels</a></li>
+        				<li><a title="Peinture"
+        				href="./SMPeinture.html">Peinture</a></li>
+      			</ul>
+      		</li>
+      		<li class="menu-deroulant">
+      		<a title="3D"
+      			href="./M3D.html">3D</a>
+      			<ul class="sous-menu">
+       				 <li><a title="Papier Maché"
+									href="./SMPapierMaché.html">Papier maché</a></li>
+        				<li><a>Carton</a></li>
+        				<li><a title="Bijoux"
+									href="./SMBijoux.html">Bijoux</a></li>
+									<li><a title="Autres"
+									href="./SMAutres.html">Autres</a></li>
+      			</ul>
+      		</li>	
+      	</ul>
+		</nav><br><br>
+			<figure>
+				<a href="../Images/IMG_20210701_140933959.jpg" ><img src="../Images/IMG_20210630_161932202.jpg" 
+					alt="image2" class="image" width="289"/> </a>
+				<a href="../Images/IMG_20210701_140933959.jpg" ><img src="../Images/IMG_20210630_162858245.jpg" 
+					alt="image2" class="image" width="289"/></a>
+				<a href="../Images/IMG_20210701_140933959.jpg" ><img src="../Images/IMG_20210630_164417753.jpg" 
+					alt="image2" class="image" width="289"/></a>
+				<a href="../Images/IMG_20210701_140933959.jpg" ><img src="../Images/IMG_20210701_134756157.png"
+					alt="image2" class="image" width="289"/></a>
+			</figure>
+			<figure>
+				<a href="../Images/IMG_20210701_140933959.jpg" ><img src="../Images/IMG_20210701_141852848.jpg" 
+					alt="image2" class="image" width="280"/></a>
+				<a href="../Images/IMG_20210701_140933959.jpg" ><img src="../Images/IMG_20210701_141903408.jpg" 
+					alt="image2" class="image" width="440"/></a>
+			</figure><br><br>
+		<h2>Gramophone :</h2><br>	
+			<figure>
+				<a href="../Images/IMG_20210701_140933959.jpg" ><img src="../Images/IMG_20210630_165509818.jpg" 
+					alt="image1" class="image" width="289"/></a>
+				<a href="../Images/IMG_20210701_140933959.jpg" ><img src="../Images/IMG_20210630_165152818.jpg" 
+					alt="image1" class="image" width="289"/></a>
+				<a href="../Images/IMG_20210701_140933959.jpg" ><img src="../Images/IMG_20210630_165458846.jpg" 
+					alt="image1" class="image" width="289"/></a>
+				<a href="../Images/IMG_20210701_140933959.jpg" ><img src="../Images/IMG_20210630_165426351.jpg" 
+					alt="image1" class="image" width="289"/></a>
+			</figure>		<br><br>
+		<h2>Le chevalier :</h2><br>	
+			<figure>
+				<a href="../Images/IMG_20210701_140933959.jpg" ><img src="../Images/b3.jpg" 
+					alt="image1" class="image" width="291"/></a>
+				<a href="../Images/IMG_20210701_140933959.jpg" ><img src="../Images/c1.jpg" 
+					alt="image1" class="image" width="291"/></a>
+				<a href="../Images/IMG_20210701_140933959.jpg" ><img src="../Images/chevalier2.jpg" 
+					alt="image1" class="image" width="209"/></a>
+			</figure><br><br>
+		<h2>WALL-E:</h2><br>	
+			<figure>
+				<a href="../Images/IMG_20210701_140933959.jpg" ><img src="../Images/IMG_20210630_165612173.jpg" 
+					alt="image1" class="image" width="475"/></a>
+				<a href="../Images/IMG_20210701_140933959.jpg" ><img src="../Images/IMG_20210630_165642194.jpg" 
+					alt="image1" class="image" width="475"/></a>
+			</figure><br><br><br>
+			<figure>
+				<a href="../Images/IMG_20210701_140933959.jpg" ><img src="../Images/IMG_20210701_140651884.jpg" 
+					alt="image4" class="image" width="300"/></a>
+			</figure>	
+			<figure>
+				<a href="../Images/IMG_20210701_140933959.jpg" ><img src="../Images/IMG_20210701_143402903.jpg" 
+					alt="image2" class="image" width="320"/> </a>
+				<a href="../Images/IMG_20210701_140933959.jpg" ><img src="../Images/IMG_20210701_143408214.jpg" 
+					alt="image2" class="image" width="320"/> </a>
+			</figure>			
+				
+		
+		
+		
+		<p class="fin">
+    			<a href="http://jigsaw.w3.org/css-validator/check/referer">
+        		<img style="border:0;width:88px;height:31px"
+            	src="http://jigsaw.w3.org/css-validator/images/vcss"
+            	alt="CSS Valide !" />
+          	 </a>
+            <a href="./Images/index.png">
+        		<img style="border:0;width:88px;height:31px"
+            	src="../Images/index.png"
+            	alt="HTML5 Valide !" /><br>
+   	 		</a>
+   	 			
+			</p>
+	</body>
+</html>

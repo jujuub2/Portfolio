@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="fr">
+	<head>
+		<title>Julie Balva</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="pages.css"/>
+	</head>
+	<body>
+		<h1>Dessins traditionnels</h1>
+		<nav>
+  			<ul>
+  				<li><a title="Menu"
+									href="../Portfolio.html"
+									target="_blank" >Menu
+					</a></li>
+    			<li class="menu-deroulant">
+      		<a href="#">Projets Arts Plastiques</a>
+      			<ul class="sous-menu">
+        				<li><a href="#">Première</a></li>
+       				<li><a href="#">Terminale</a></li>
+      			</ul>
+    			</li>
+    			<li class="menu-deroulant">
+      		<a href="#">Audiovisuel</a>
+      			<ul class="sous-menu">
+       				 <li><a href="#">Animation</a></li>
+        				<li><a href="#">Films</a></li>
+      			</ul>
+      		</li>
+      		<li class="menu-deroulant">
+      		<a href="#">Dessins</a>
+      			<ul class="sous-menu">
+       				 <li><a title="Menu"
+									href="./SMNumérique.html"
+									target="_blank" >Numérique
+					</a></li>
+        				<li><a href="#">Dessins</a></li>
+        				<li><a href="#">Peinture</a></li>
+      			</ul>
+      		</li>
+      		<li class="menu-deroulant">
+      		<a href="#">3D</a>
+      			<ul class="sous-menu">
+       				 <li><a href="#">Papier maché</a></li>
+        				<li><a href="#">Carton</a></li>
+        				<li><a href="#">Bijoux</a></li>
+      			</ul>
+      		</li>	
+      	</ul>
+		</nav>
+	</body>
+</html>
