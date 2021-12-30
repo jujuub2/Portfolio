@@ -7,7 +7,7 @@ background-color:#8A8278;}
 figure {text-align: center;}
 
 
-video {display:block;width:480px;margin:0 auto 35px auto}
+.video {display:block;width:480px;margin:0 auto 35px auto}
 
 table {
   table-layout: fixed;
