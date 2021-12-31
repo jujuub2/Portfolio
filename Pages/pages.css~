@@ -25,7 +25,7 @@ p, h2, ul, ol{text-align: center;}
 
 p,ul,ol{font-size: 110%;}
 
-h2 {background-color: #9C958C;
+h2 {background-color: #2e483d;
 color: white;
 padding: 10px;
 font-size: 135%}
