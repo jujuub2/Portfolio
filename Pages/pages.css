@@ -2,7 +2,7 @@ h1 {text-align: center;
 padding:20px;
 font-size: 250%;
 color: white;
-background-color:#96CEB4;}
+background-color:#D9534F;}
 
 figure {text-align: center;}
 
@@ -25,7 +25,7 @@ p, h2, ul, ol{text-align: center;}
 
 p,ul,ol{font-size: 110%;}
 
-h2 {background-color: #2e483d;
+h2 {background-color: #96CEB4;
 color: white;
 padding: 10px;
 font-size: 135%}
