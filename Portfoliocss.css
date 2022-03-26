@@ -2,7 +2,7 @@ h1 {text-align: center;
 padding:20px;
 font-size: 250%;
 color: white;
-background-color:#96CEB4;}
+background-color:#D9534F;}
 
 figure {text-align: center;}
 
@@ -19,13 +19,13 @@ th,td {border: 1px solid black;
 padding: 10px;
 text-align: center;}
 
-th {background-color:#D9534F}
+th {background-color:#9966CC}
 
 p, h2, ul, ol{text-align: center;}
 
 p,ul,ol{font-size: 110%;}
 
-h2 {background-color: #9C958C;
+h2 {background-color:#96CEB4;
 color: white;
 padding: 10px;
 font-size: 135%}
