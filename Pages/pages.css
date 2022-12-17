@@ -7,9 +7,12 @@ background-color:#D9534F;}
 figure {text-align: center;}
 
 
-.video {display:block;width:480px;margin:0 auto 35px auto}
+.video {display:block;width:480px;margin:0 auto 35px auto;}
 
 .boite {display:flex;
+}
+
+.boite-item {width:33,33%;
 }
 
 table {
