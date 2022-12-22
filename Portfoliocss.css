@@ -6,6 +6,10 @@ background-color:#D9534F;}
 
 figure {text-align: center;}
 
+.conteneur_de_mon_Sketch{
+display: flex;
+justify-content: center;
+}
 
 video {display:block;width:480px;margin:0 auto 35px auto}
 
