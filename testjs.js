@@ -16,7 +16,7 @@ function draw() {
   //background(255);
   stroke(255,209,102,10);
   fill(255,209,102);
-  circle(700, 700,70);
+  circle(mouseX, mouseY,70);
   stroke(255,209,102,80);
   circle(mouseX, mouseY,10);
   text(textMes, mouseX, mouseY);
