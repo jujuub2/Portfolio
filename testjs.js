@@ -1,9 +1,7 @@
-
 let bgCol=255;
 let textMes = '🐝';
 function setup() {
-  var canvas = createCanvas(innerWidth, 1200);
-  canvas.parent('conteneur_de_mon_Sketch');
+  createCanvas(innerWidth, 1200);
   background(255);
   textFont("helvetica");
   textSize(30);
@@ -27,5 +25,3 @@ function mouseClicked(){
   stroke(255,0,0);
   circle(mouseX, mouseY,50);
 }
-
-
