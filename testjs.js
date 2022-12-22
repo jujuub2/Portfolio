@@ -1,4 +1,4 @@
-<script type="text/javascript">
+
 let bgCol=255;
 let textMes = '🐝';
 function setup() {
@@ -29,4 +29,3 @@ function mouseClicked(){
 }
 
 
-</script>
