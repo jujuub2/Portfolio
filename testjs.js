@@ -2,7 +2,8 @@
 let bgCol=255;
 let textMes = '🐝';
 function setup() {
-  createCanvas(innerWidth, 1200);
+  var canvas = createCanvas(innerWidth, 1200);
+  canvas.parent('conteneur_de_mon_Sketch');
   background(255);
   textFont("helvetica");
   textSize(30);
