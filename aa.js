@@ -9,7 +9,7 @@ function setup() {
 }
 
 function draw(){
-   background(255, 0, 200);
+   background(mouseX, 0, 200);
   x=x+dx;
   ellipse (x,width/2,10,10);
   if (x>width || x<0){
