@@ -1,12 +1,12 @@
 let bgCol=255;
 let textMes = '🐝';
 function setup() {
-  createCanvas(innerWidth, 1200);
+  createCanvas(400, 400);
   background(255);
   textFont("helvetica");
   textSize(30);
   textAlign(CENTER, CENTER);
-  fill(255);
+  fill(0);
   strokeWeight(100);
   stroke(255,209,102);
 }
